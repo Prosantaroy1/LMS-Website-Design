@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "React for Beginners",
+      "description": "This course is designed to introduce you to React, the popular JavaScript library used for building user interfaces. Starting from the basics, you'll learn how to create dynamic, responsive web applications with React components, JSX, and hooks. You'll understand how to manage state and implement features such as forms, routing, and API calls. With a hands-on approach, this course is ideal for beginners who want to break into the world of modern web development. By the end, you will have built your own React projects and gained the skills necessary to take on more advanced challenges.",
+      "img": "https://utfs.io/f/cagsdt8RzebYNn4wjJ80ZSEDBuvOlYTL9NmhWCt8KVdeHy4F",
+      "price": 49.99,
+      "rating": 4.7,
+      "category": "Web Development",
+      "requirements": [
+        "Basic knowledge of HTML and CSS",
+        "A code editor like VS Code",
+        "Willingness to learn"
+      ],
+      "whatYouWillLearn": [
+        "Build dynamic web applications using React",
+        "Understand JSX and component-based architecture",
+        "Manage state using hooks and context",
+        "Deploy React projects to the web"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Python Masterclass",
+      "description": "Whether you're new to programming or looking to deepen your skills, this Python course is perfect for you. Covering everything from the basics of syntax and variables to advanced topics like object-oriented programming and web development, this course provides a thorough introduction to Python. You'll also dive into data analysis, learning to use libraries like Pandas and NumPy to work with datasets. By completing this course, you will be able to write Python scripts, build small applications, and understand the foundational concepts needed for further exploration in areas like data science and machine learning.",
+      "img": "https://utfs.io/f/cagsdt8RzebYIudgJp1a4pdEw5PmLUjAoe3RXGhJKzbDYNCs",
+      "price": 59.99,
+      "rating": 4.9,
+      "category": "Programming",
+      "requirements": [
+        "No prior programming experience required",
+        "A computer with Python installed",
+        "Interest in learning coding"
+      ],
+      "whatYouWillLearn": [
+        "Write Python programs from scratch",
+        "Understand object-oriented programming",
+        "Work with libraries like Pandas and NumPy",
+        "Build web applications using Flask"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Graphic Design Essentials",
+      "description": "Graphic Design Essentials is the ultimate beginner-friendly course for anyone looking to learn design. You'll explore fundamental design principles like color theory, typography, and composition while gaining hands-on experience with industry-standard tools like Adobe Photoshop and Canva. Whether you want to create stunning logos, engaging social media graphics, or professional marketing materials, this course will provide you with the skills to do so. No prior design experience is required; all you need is creativity and a passion for visual storytelling.",
+      "img": "https://utfs.io/f/cagsdt8RzebYXF7StuZJBFncHeRv5dYxwqKshaPifz9EMgyr",
+      "price": 39.99,
+      "rating": 4.5,
+      "category": "Design",
+      "requirements": [
+        "Access to design software like Adobe Photoshop or Canva",
+        "Basic creativity skills",
+        "Eagerness to experiment with design tools"
+      ],
+      "whatYouWillLearn": [
+        "Master fundamental design principles",
+        "Create professional logos and posters",
+        "Work with typography and color theory",
+        "Use popular design tools effectively"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Digital Marketing Bootcamp",
+      "description": "In today's competitive digital landscape, mastering digital marketing is essential for any business or career growth. This comprehensive bootcamp covers a wide range of topics, from SEO and content marketing to social media strategies and analytics. You'll learn how to drive traffic to websites, create engaging campaigns, and analyze performance using tools like Google Analytics. By the end of this course, you'll have the knowledge and confidence to implement effective marketing strategies for personal projects, startups, or established businesses.",
+      "img": "https://utfs.io/f/cagsdt8RzebYNn4wjJ80ZSEDBuvOlYTL9NmhWCt8KVdeHy4F",
+      "price": 69.99,
+      "rating": 4.6,
+      "category": "Marketing",
+      "requirements": [
+        "Basic understanding of internet usage",
+        "Access to a computer with internet",
+        "Passion for marketing and analytics"
+      ],
+      "whatYouWillLearn": [
+        "Develop effective SEO strategies",
+        "Create engaging social media campaigns",
+        "Analyze marketing data for insights",
+        "Master tools like Google Analytics"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Data Science and Machine Learning",
+      "description": "Unlock the power of data with this comprehensive course on data science and machine learning. Starting with an overview of data science concepts, you'll learn how to preprocess data, build machine learning models, and evaluate their performance. Using Python and popular libraries like Scikit-learn and Matplotlib, this course emphasizes practical, hands-on learning. By the end of the course, you'll be equipped to tackle real-world data challenges, make data-driven decisions, and build predictive models that provide actionable insights.",
+      "img": "https://utfs.io/f/cagsdt8RzebYIudgJp1a4pdEw5PmLUjAoe3RXGhJKzbDYNCs",
+      "price": 99.99,
+      "rating": 4.8,
+      "category": "Data Science",
+      "requirements": [
+        "Basic knowledge of Python programming",
+        "Understanding of high school mathematics",
+        "Interest in data and problem-solving"
+      ],
+      "whatYouWillLearn": [
+        "Understand data science workflows",
+        "Implement machine learning algorithms",
+        "Work with data visualization tools",
+        "Build predictive models with Python"
+      ]
+    }
+]
+  

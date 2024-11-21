@@ -1,8 +1,13 @@
+import CoverBannerPage from "../../components/common/CoverBannerPage";
 
 const Contact = () => {
     return (
         <div>
-            <h3>Contact Pages</h3>
+            {/* cover banner */}
+             <CoverBannerPage
+                 img='https://utfs.io/f/oI7Ou0bdQ6rjYDCfTpVgoqDshSiVxC6IWeyk5aTJ1jQGwuRL'
+                 titleName='Contact'
+                 />
         </div>
     );
 };
