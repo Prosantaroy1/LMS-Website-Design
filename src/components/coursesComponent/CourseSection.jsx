@@ -1,7 +1,6 @@
 import Loading from "../common/loading";
 import CoursesCard from "./CoursesCard";
 
-// eslint-disable-next-line react/prop-types
 const CourseSection = ({data}) => {
 
     return (

@@ -10,7 +10,6 @@ const CourseDetilas = () => {
     //single data details
     const items = detailsData.filter((item) => item.id == id);
 
-
     return (
         <div className="bg-slate-50">
             {/* details cover section */}
