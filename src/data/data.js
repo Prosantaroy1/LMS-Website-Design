@@ -47,3 +47,56 @@ export const categoryData = [
 ]
 
 
+export const StuFeedback=[
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4Xw8zKAuBhe9PUHwDrk8uR6l4tvmj7JSpIxdz",
+      "name": "Aarav Sen",
+      "id": "101",
+      "description": "The course content is detailed and easy to understand, helping me improve significantly."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4XqAnBanuBhe9PUHwDrk8uR6l4tvmj7JSpIxd",
+      "name": "Meera Das",
+      "id": "102",
+      "description": "I appreciate the instructor's clarity and practical examples that made learning enjoyable."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4Xw8zKAuBhe9PUHwDrk8uR6l4tvmj7JSpIxdz",
+      "name": "Rahul Roy",
+      "id": "103",
+      "description": "Great learning experience! The real-world projects boosted my confidence immensely."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4XqAnBanuBhe9PUHwDrk8uR6l4tvmj7JSpIxd",
+      "name": "Anika Chowdhury",
+      "id": "104",
+      "description": "The supportive environment and detailed feedback motivated me to excel."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4Xw8zKAuBhe9PUHwDrk8uR6l4tvmj7JSpIxdz",
+      "name": "Prosanta Roy",
+      "id": "105",
+      "description": "Highly recommend this course! It covers everything you need to know thoroughly."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4XqAnBanuBhe9PUHwDrk8uR6l4tvmj7JSpIxd",
+      "name": "Tanya Ahmed",
+      "id": "106",
+      "description": "Learning here has been a transformative journey, making me more skilled and confident."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4Xw8zKAuBhe9PUHwDrk8uR6l4tvmj7JSpIxdz",
+      "name": "Aditya Pal",
+      "id": "107",
+      "description": "The course exceeded my expectations with its practical approach and experienced instructors."
+    },
+    {
+      "img": "https://utfs.io/f/O5sH8sNCMYV4XqAnBanuBhe9PUHwDrk8uR6l4tvmj7JSpIxd",
+      "name": "Sana Malik",
+      "id": "108",
+      "description": "I loved how interactive and engaging the lessons were throughout the program."
+    }
+  ]
+  
+
+

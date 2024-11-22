@@ -4,6 +4,7 @@ import BestCourse from "../../components/home/BestCourse";
 import Categories from "../../components/home/Categories";
 import { bannerData } from "../../data/data";
 import HowToStart from "../../components/home/HowToStart";
+import StudentFeedback from "../../components/home/StudentFeedback";
 
 const Home = () => {
 
@@ -35,6 +36,8 @@ const Home = () => {
                 <Categories />
                 <BestCourse data={datas.slice(0, 3)}/>
                 <HowToStart/>
+                {/* feedback */}
+                <StudentFeedback/>
             </div>
         </div>
     );

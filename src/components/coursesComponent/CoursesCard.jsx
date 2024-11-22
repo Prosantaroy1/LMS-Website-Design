@@ -27,7 +27,7 @@ const CoursesCard = ({ item }) => {
                     </p>
                     {/* btn */}
                     <div className="flex items-center justify-between">
-                        <Button btntitle='Purches Course' link='/purses' />
+                        <Button btntitle='Purches Course' link='https://bkash.dhakarkmm.org/' />
                         <Button btntitle='View Details' link={`/details/${id}`} />
                     </div>
                 </div>
