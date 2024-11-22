@@ -2,7 +2,7 @@
 const Footer = () => {
     return (
         <div className="bg-slate-800 font-Poppins py-20 mt-8 text-white">
-            <div className="grid grid-cols-5 font-Poppins container items-start gap-4">
+            <div className="grid grid-cols-2 md:grid-cols-5 font-Poppins container items-start gap-7">
                 {/* frist */}
                 <div className="col-span-2 space-y-3">
                     <h3 className="text-xl leading-8 font-semibold">Ramakrishna Mission Computer<br /> Training Center,Dhaka</h3>

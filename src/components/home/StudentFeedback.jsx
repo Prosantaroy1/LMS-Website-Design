@@ -17,19 +17,19 @@ const StudentFeedback = () => {
                     {
                         StuFeedback.map((item) => <div key={item.id}>
 
-                            <div className="bg-slate-200 w-96 h-52 rounded-lg space-y-5 py-6 px-4">
-                                <div className="flex items-center justify-start gap-x-4">
+                            <div className="bg-slate-200 hover:bg-yellow-200  w-96 h-52 rounded-lg space-y-5 py-6 px-4">
+                                <div className="flex items-center justify-start gap-x-6">
                                     <img
                                         src={item.img}
                                         alt=""
                                         className="w-12" />
-                                    <div>
+                                    <div className="space-y-2">
                                         <h3 className="text-xl ">{item.name}</h3>
                                         <p>Student</p>
                                     </div>
                                 </div>
                                 {/* description */}
-                                <p>
+                                <p className="text-base">
                                     {item.description}
                                 </p>
                             </div>

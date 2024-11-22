@@ -1,0 +1,83 @@
+[
+    {
+      "name": "React.js",
+      "img": "https://utfs.io/f/O5sH8sNCMYV4M85iJ9cI3pNuvRFakb4ifKBC7teo1ynHglX8",
+      "description": "A JavaScript library for building user interfaces, focusing on reusable components and fast rendering.",
+      "date": "2024-11-21",
+      "create_name": "John Doe",
+      "view": 10234,
+      "like": 578,
+      "link": "https://reactjs.org"
+    },
+    {
+      "name": "Node.js",
+      "img": "https://utfs.io/f/O5sH8sNCMYV49pZ72h1HtsvM4OAl2in7gxRZCLrQVEzykw8G",
+      "description": "A JavaScript runtime for executing server-side code, known for its efficiency and scalability.",
+      "date": "2024-11-18",
+      "create_name": "Jane Smith",
+      "view": 8532,
+      "like": 431,
+      "link": "https://nodejs.org"
+    },
+    {
+      "name": "Python",
+      "img": "https://utfs.io/f/O5sH8sNCMYV4M85iJ9cI3pNuvRFakb4ifKBC7teo1ynHglX8",
+      "description": "A versatile programming language ideal for web development, data analysis, AI, and more.",
+      "date": "2024-11-15",
+      "create_name": "Alice Johnson",
+      "view": 14567,
+      "like": 690,
+      "link": "https://www.python.org"
+    },
+    {
+      "name": "Docker",
+      "img": "https://utfs.io/f/O5sH8sNCMYV49pZ72h1HtsvM4OAl2in7gxRZCLrQVEzykw8G",
+      "description": "A platform for developing, shipping, and running applications inside lightweight, portable containers.",
+      "date": "2024-11-12",
+      "create_name": "Robert Brown",
+      "view": 9786,
+      "like": 512,
+      "link": "https://www.docker.com"
+    },
+    {
+      "name": "Kubernetes",
+      "img": "https://utfs.io/f/O5sH8sNCMYV4M85iJ9cI3pNuvRFakb4ifKBC7teo1ynHglX8",
+      "description": "An open-source system for automating the deployment and management of containerized applications.",
+      "date": "2024-11-10",
+      "create_name": "Emily Davis",
+      "view": 11245,
+      "like": 672,
+      "link": "https://kubernetes.io"
+    },
+    {
+      "name": "Flutter",
+      "img": "https://utfs.io/f/O5sH8sNCMYV49pZ72h1HtsvM4OAl2in7gxRZCLrQVEzykw8G",
+      "description": "A UI toolkit for crafting natively compiled mobile, web, and desktop applications from a single codebase.",
+      "date": "2024-11-08",
+      "create_name": "William Wilson",
+      "view": 7890,
+      "like": 398,
+      "link": "https://flutter.dev"
+    },
+    {
+      "name": "GraphQL",
+      "img": "https://utfs.io/f/O5sH8sNCMYV4M85iJ9cI3pNuvRFakb4ifKBC7teo1ynHglX8",
+      "description": "A query language and runtime for APIs, enabling clients to request only the data they need.",
+      "date": "2024-11-05",
+      "create_name": "Sophia Taylor",
+      "view": 4568,
+      "like": 287,
+      "link": "https://graphql.org"
+    },
+    {
+      "name": "AWS",
+      "img": "https://utfs.io/f/O5sH8sNCMYV4csFkbuYJY7EzUQ4sHkNXfgRydxn1wWiSlce6",
+      "description": "A comprehensive cloud computing platform offering a wide range of services and tools for developers.",
+      "date": "2024-11-01",
+      "create_name": "James Anderson",
+      "view": 13245,
+      "like": 754,
+      "link": "https://aws.amazon.com"
+    }
+  ]
+  
